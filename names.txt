@@ -1,1 +1,20 @@
+Rohit Chawla
 
+Here i have added the data while using vi.txt 
+
+and we have used the commands such as git comm
+
+and for using the commands such as git commit -m "here we have added the text " 
+
+and m means the message 
+for checking the status we use git status 
+and cat cmd is used to display the contnets of the file in cmd 
+and green colour means that we have added the changes 
+and red colour means that we have deleted the data 
+and if we want to remove the data without commiting we can use command 
+git restore --staged names.txt
+and we can also check the history by using 
+git log 
+
+and if we wnat to deete any commit we and we copy one hash id and all the commits will get deleted above of that copied hash id 
+and we will use the command called git reset 0e538411960091e37ecda38c08d8419e3ed90c72  
